@@ -9,7 +9,7 @@
 
 /*
  * Plugin Name: Custom Post Type UI Capabilities
- * Plugin URI: https://github.com/tw2113/custom-post-type-ui-capabilities
+ * Plugin URI: https://github.com/timnolte/custom-post-type-ui-capabilities
  * Description: Adds capabilities support for Custom Post Type UI
  * Author: tw2113
  * Version: 1.0.0
