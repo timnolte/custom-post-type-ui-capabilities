@@ -87,7 +87,8 @@ class customPostTypeUICapabilities {
 	 * @since 1.0.0
 	 */
 	public function includes() {
-		include $this->path . 'inc/post-type-hooks.php';
+		// Post Type Hooks aren't needed any longer as this is built-in to the CPT UI plugin.
+		//include $this->path . 'inc/post-type-hooks.php';
 		include $this->path . 'inc/taxonomy-hooks.php';
 		include $this->path . 'inc/helpers.php';
 	}
